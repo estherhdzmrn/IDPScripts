@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Script: sp60ap30esther
 # Muestra servicios según el estado elegido por el usuario
 
 echo "Seleccione una de las siguientes opciones:"
